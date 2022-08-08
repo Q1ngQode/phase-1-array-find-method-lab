@@ -4,6 +4,5 @@ function superbowlWin(){
     { year: "2014", result: "N/A"},
     { year: "2013", result: "L"},
   ]
-  console.log(); 
+  return (year, )
 }
- [W].find(record);

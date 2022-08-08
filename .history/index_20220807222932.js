@@ -2,8 +2,8 @@ function superbowlWin(){
   const record = [
     { year: "2015", result: "W"},
     { year: "2014", result: "N/A"},
-    { year: "2013", result: "L"},
+    { year: "2013", result: "L"[2]},
   ]
-  console.log(); 
+console.log();
 }
- [W].find(record);
+[0].find(2015); 

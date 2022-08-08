@@ -6,4 +6,4 @@ function superbowlWin(){
   ]
   console.log(); 
 }
- [W].find(record);
+ [W].find(record)
